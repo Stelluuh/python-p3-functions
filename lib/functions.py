@@ -10,7 +10,7 @@ def greet_with_default(name="programmer"):
     print(f"Hello, {name}!")
 
 def add(num1, num2):
-    pass
+    return num1 + num2
 
 def halve(number):
     pass
